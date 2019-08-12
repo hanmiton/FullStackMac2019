@@ -1,5 +1,5 @@
 # TEC STACK FOR MAC COMPUTER 🔧
 
-## COMPARITION CODE
+## MERGE TOOL
 
-* [MELD](https://yousseb.github.io/meld/) - For merge code
+* [MELD](https://yousseb.github.io/meld/) -  Visual diff and merge tool
